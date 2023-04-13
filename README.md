@@ -3,6 +3,14 @@
 
 <h3 align="center">Who am I ?</h3>
 <h3 align="center">My projects</h3>
+
+Some projects done during Tech Ed course using only HTML, CSS and JS:
+
+- : Basic website using HTML and CSS
+
+
+
+
 <!--
 **Klnder/Klnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
