@@ -1,5 +1,5 @@
-# Hi I'm Jeremy Merlin 👋
-## I want to start a career in tech
+<h1 style="text-align: center;">Hi I'm Jeremy Merlin 👋</h1> 
+<h2> I want to start a career in tech</h2>
 
 <!--
 **Klnder/Klnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
