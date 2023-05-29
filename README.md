@@ -15,37 +15,43 @@
 
 <h3 align="center">My projects</h3>
 
-Some projects doing Code 101 and 201 of Tech Ed. Both of this courses teach us how to develop website using HTML, CSS and Javascript.
+Projects during Code 301 of Tech ED. This course focus on developing Full Stack MERN applications.
 
-1. **About Me website:** website playground for html and css, the main focus was to develop a mini game in JS to be able to put in practice the basics that we learn  
+1. **Trip Planner:** End of bootcamp project using all aspects of MERN applications developped in 1 week. The principe is to be able to all informations for our incoming trips regroup at the same place. Use of MongoDB to store the trips, Express to interact with the database and external API and React for the client.
+    - Github repo: 
+    - Website link:
+
+Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how to develop website using HTML, CSS and Javascript.
+
+    
+1. **Cat Fighter:** project end of 201 in duo. Website based on theme of Street Figther, where you can create fighters and simulate fights. Use of everything I learn doing 101 and 201 in HTML(basics, form...), CSS (basics, display flex and grid, animations), and JS (Object, Constructor, Prototype, use of local data, DOM Manipulation)
+
+    - Github repo: https://github.com/Cat-fighter/Cat-fighter
+    - Website link: https://cat-fighter.github.io/Cat-fighter/index.html
+
+2. **About Me website:** website playground for html and css, the main focus was to develop a mini game in JS to be able to put in practice the basics that we learn  
 
     - Github repo: https://github.com/Klnder/aboutMe 
     - Website link: https://klnder.github.io/aboutMe/
-    
-2. **Cookie Stand:** website where I learn to use display flex in CSS, DOM manipulation and Object and Constructors in JavaScript
-
-    - Github repo: https://github.com/Klnder/cookie-stand
-    - website link: https://klnder.github.io/cookie-stand/html/sales.html
-    
-3. **Odd Duck:** website where I learn to use display Grid in CSS, use more complex method with Constructor in JavaScript and use of Chart JS to show data
-
-    - Github repo: https://github.com/Klnder/odd-duck
-    - website link: https://klnder.github.io/odd-duck/
-    
-4. **Cat Fighter:** project end of 201 in duo. Website based on theme of Street Figther, where you can create fighters and simulate fights. Use of everything I learn doing 101 and 201 in HTML, CSS, and JSS
-
-    - Github repo: https://github.com/Cat-fighter/Cat-fighter
-    - website link: https://cat-fighter.github.io/Cat-fighter/index.html
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  
 
-<p align="center"><br/>
+<div align="center"><br/>
  <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- </p>
+    
+<img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    
+<img alt="mui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    
+<img alt="vscode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+ </div>
 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-merlin-067909245/)
