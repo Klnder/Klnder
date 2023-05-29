@@ -4,7 +4,7 @@
 
 <h3 align="center">Who am I ?</h3>
 
-:computer: Just finish Tech educators Full Stack bootcamp, learning all the basics of MERN applications
+:computer: Just finish Tech educators Full Stack bootcamp, where I learn all the basics of how to develop a full stack MERN application
 
 :mortar_board: Graduated in 2018 at ISEN in France of Informatic Engineer 
 
