@@ -35,8 +35,9 @@ Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how t
     - Website link: https://klnder.github.io/aboutMe/
 
 ## Skills
+<div align="center"><br/>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie&hide=python,C#,Java)](https://github.com/anuraghazra/github-readme-stats)
- 
+ </div>
 
 <div align="center"><br/>
  <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
