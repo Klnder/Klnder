@@ -6,7 +6,7 @@
 
 :computer: Just finish Tech educators Full Stack bootcamp, where I learn all the basics of how to develop a full stack MERN application
 
-:mortar_board: Graduated in 2018 at ISEN in France of Informatic Engineer 
+:mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
 
 :cocktail: Graduated at EBS (European Bartender School) in 2018 then became Bartender at Be at One. Work all my way through to Shift Leader and Trainer, learning how to manage and lead big Team, but also how to train it and improve individually personal skills
 
