@@ -1,6 +1,4 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=86F73F&background=1B17FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+J%C3%A9r%C3%A9my+Merlin+%F0%9F%91%8B)](https://git.io/typing-svg)
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=86F73F&background=1B17FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+J%C3%A9r%C3%A9my+Merlin+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <h2 align="center"> I'm looking to start a career in Tech as a full stack developper</h2>
 
