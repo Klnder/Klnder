@@ -36,7 +36,7 @@ Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how t
 
 ## Skills
 <div align="center"><br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie&hide=python,C#,Java)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie&hide=python,C#,Java" alt="stats"/>
  </div>
 
 <div align="center"><br/>
