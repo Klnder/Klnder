@@ -1,16 +1,18 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=86F73F&background=1B17FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+J%C3%A9r%C3%A9my+Merlin+%F0%9F%91%8B" alt="Typing SVG" /></div>
 
-<h2 align="center"> I'm looking to start a career in Tech as a full stack developper</h2>
+<h2 align="center"> I'm looking to start a career in Tech as a full stack developer</h2>
 
 <h3 align="center">Who am I ?</h3>
 
-I am Jérémy Merlin, 28 years old, processing to come back to tech by doing Tech Ed course.
+I am Jérémy Merlin, 28 years old, processing to come back to tech by doing Tech Ed course
+
+:computer: Just finish Tech educators Full Stack bootcamp, learning all the basics of MERN applications
 
 :mortar_board: Graduated in 2018 at ISEN in France of Informatic Engineer 
 
-:cocktail: Graduated at EBS (European Bartender School) in 2018 then became Bartender at Be at One. Work all my way through to Shift Leader and Trainer, learning how to manage and lead a Team, but also how to train it and improve each personal skills
+:cocktail: Graduated at EBS (European Bartender School) in 2018 then became Bartender at Be at One. Work all my way through to Shift Leader and Trainer, learning how to manage and lead big Team, but also how to train it and improve individually personal skills
 
-:computer: Doing Tech Ed courses to learn again web programation and starting a career in Tech
+
 
 <h3 align="center">My projects</h3>
 
