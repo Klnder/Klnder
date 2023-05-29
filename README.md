@@ -37,7 +37,7 @@ Some projects doing Code 101 and 201 of Tech Ed. Both of this courses teach us h
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 
 <p align="center"><br/>
  <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
