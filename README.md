@@ -56,6 +56,7 @@ Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how t
  </div>
 
 ## Contact
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-merlin-067909245/)
-
+<div align="center">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</div>
 
