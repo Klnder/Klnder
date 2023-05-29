@@ -36,7 +36,7 @@ Some projects doing Code 101 and 201 of Tech Ed. Both of this courses teach us h
     - website link: https://cat-fighter.github.io/Cat-fighter/index.html
 
 ## Skills
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <p align="center"><br/>
