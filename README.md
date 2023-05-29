@@ -18,8 +18,8 @@
 Projects during Code 301 of Tech ED. This course focus on developing Full Stack MERN applications.
 
 1. **Trip Planner:** End of bootcamp project using all aspects of MERN applications developped in 1 week. The principe is to be able to all informations for our incoming trips regroup at the same place. Use of MongoDB to store the trips, Express to interact with the database and external API and React for the client.
-    - Github repo: 
-    - Website link:
+    - Github repo: https://github.com/Klnder/Final-Project
+    - Website link: https://final-project-jeremy.netlify.app/
 
 Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how to develop website using HTML, CSS and Javascript.
 
