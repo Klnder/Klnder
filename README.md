@@ -1,10 +1,10 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&duration=3000&pause=1000&color=86F73F&background=1B17FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+I'm+J%C3%A9r%C3%A9my+Merlin+%F0%9F%91%8B" alt="Typing SVG" /></div>
 
-<h2 align="center"> I'm looking to start a career in Tech as a full stack developer</h2>
+<h2 align="center"> I'm looking to start a career in Tech as a full stack web developer</h2>
 
 <h3 align="center">Who am I ?</h3>
 
-:computer: Just finish Tech educators Full Stack bootcamp, where I learn all the basics of how to develop a full stack MERN application
+:computer: Just finish Tech educators Full Stack bootcamp, where I learn all the basics of developing a full stack MERN application
 
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
 
