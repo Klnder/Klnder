@@ -4,6 +4,8 @@
 
 <h3 align="center">Who am I ?</h3>
 
+:computer: Actually doing NorthCoders Full stack bootcamp
+
 :computer: Just finish Tech educators Full Stack bootcamp, where I learn all the basics of developing a full stack MERN application
 
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
