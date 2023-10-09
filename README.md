@@ -30,11 +30,6 @@ Projects during Code 101 and 201 of Tech Ed. Both of this courses teach us how t
     - Github repo: https://github.com/Cat-fighter/Cat-fighter
     - Website link: https://cat-fighter.github.io/Cat-fighter/index.html
 
-2. **About Me website:** website playground for html and css, the main focus was to develop a mini game in JS to be able to put in practice the basics that we learn  
-
-    - Github repo: https://github.com/Klnder/aboutMe 
-    - Website link: https://klnder.github.io/aboutMe/
-
 ## Skills
 <div align="center"><br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie&hide=python,C#,Java" alt="stats"/>
