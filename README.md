@@ -11,7 +11,6 @@
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
 
 
-📖 Learning how to implement a CSS Framework to my previous project, and looking at Vue.js
 
 
 <h3 align="center">My projects</h3>
