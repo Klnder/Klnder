@@ -20,8 +20,9 @@ Projects during Northcoders bootcamp.
 1. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
    Frontend :  
    - Website link: https://nc-news-pinpin.netlify.app/home  
-   - Github repo: https://github.com/Klnder/nc-news  
-Backend :  
+   - Github repo: https://github.com/Klnder/nc-news
+     
+   Backend :  
 - API link: https://nc-api-project.onrender.com/api  
 - Github repo: https://github.com/Klnder/BE-NC-News  
 
