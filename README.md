@@ -15,6 +15,17 @@
 
 <h3 align="center">My projects</h3>
 
+Projects during Northcoders bootcamp.
+
+1. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...
+   Frontend :
+   - Website link: https://nc-news-pinpin.netlify.app/home
+   - Github repo: https://github.com/Klnder/nc-news
+Backend :
+- API link: https://nc-api-project.onrender.com/api
+- Github repo: https://github.com/Klnder/BE-NC-News
+
+
 Projects during Code 301 of Tech ED. This course focus on developing Full Stack MERN applications.
 
 1. **Trip Planner:** End of bootcamp project using all aspects of MERN applications developped in 1 week. The principe is to be able to all informations for our incoming trips regroup at the same place. Use of MongoDB to store the trips, Express to interact with the database and external API and React for the client.
