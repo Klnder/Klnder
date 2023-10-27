@@ -23,8 +23,8 @@ Projects during Northcoders bootcamp.
    - Github repo: https://github.com/Klnder/nc-news
      
    Backend :  
-- API link: https://nc-api-project.onrender.com/api  
-- Github repo: https://github.com/Klnder/BE-NC-News  
+   - API link: https://nc-api-project.onrender.com/api  
+   - Github repo: https://github.com/Klnder/BE-NC-News  
 
 
 Projects during Code 301 of Tech ED. This course focus on developing Full Stack MERN applications.
