@@ -11,9 +11,6 @@
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
 
 ## Skills
-<div align="center"><br/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klnder&layout=pie&hide=python,C#,Java" alt="stats"/>
- </div>
 
 <div align="center"><br/>
  <img alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
