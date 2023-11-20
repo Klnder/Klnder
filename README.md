@@ -4,7 +4,7 @@
 
 <h3 align="center">Who am I ?</h3>
 
-:computer: Actually doing NorthCoders Full stack bootcamp
+:computer: Just finish NorthCoders Full stack bootcamp in November 2023
 
 :computer: Finish Tech educators Full Stack bootcamp in May, where I learn all the basics of developing a full stack MERN application
 
@@ -17,7 +17,14 @@
 
 Projects during Northcoders bootcamp.
 
-1. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
+1. **Travel app:** Full stack project end of Northcoder bootcamp developed in a team of 6 people in 2 weeks. We use Tech that we learn during the project such as Vue, Mongodb, Ionic
+   Frontend :  
+   - The API is available here: [Go to the API](https://travel-app-api-8nj9.onrender.com/api)  
+   - The App is available here: [Go to the Travel App](https://travel-app-npm-jog.netlify.app/)
+   - Github repo: [https://github.com/Klnder/nc-news](https://github.com/npm-jog/travel-proj/tree/main)
+
+
+2. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
    Frontend :  
    - Website link: https://nc-news-pinpin.netlify.app/home  
    - Github repo: https://github.com/Klnder/nc-news
