@@ -4,11 +4,11 @@
 
 <h2 align="center">Who am I ?</h2>
 
-:computer: Just finish NorthCoders Full stack bootcamp in November 2023
+:computer: Just finish NorthCoders Full stack bootcamp in November 2023, where I learn fundamentals of developing full stack PERN application (PostGresql, Express, React, Node)
 
-:computer: Finish Tech educators Full Stack bootcamp in May, where I learn all the basics of developing a full stack MERN application
+:computer: Finish Tech educators Full Stack bootcamp in May, where I learn all the basics of developing a full stack MERN application (MongoDB, Express, React, Node)
 
-:mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn basics of multiple langages of development and get some experiences working in Tech companies.
+:mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn fundamentals of multiple langages of development and get some experiences working in Tech companies such as Sopra Steria and Orange.
 
 <h2 align="center">Skills<h2>
 
