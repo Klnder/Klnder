@@ -22,6 +22,7 @@ Actually Working on : Portfolio with React & Mui, Recreating Latest Project of N
 </div>
  <div align="center"><br/>
 <img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
