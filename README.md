@@ -10,6 +10,8 @@
 
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn fundamentals of multiple langages of development and get some experiences working in Tech companies such as Sopra Steria and Orange.
 
+Actually Working on : Portfolio with React & Mui, Recreating Latest Project of Northcoder bootcamp with Next.js
+
 <h2 align="center">Skills<h2>
 
 <div align="center"><br/>
