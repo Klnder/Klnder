@@ -2,15 +2,17 @@
 
 <h1 align="center"> I'm looking to start a career in Tech as a full stack Engineer</h1>
 
-<h2 align="center">Who am I ?</h2>
+<h2 align="center">Portfolio</h2>
 
-:computer: Just finish NorthCoders Full stack bootcamp in November 2023, where I learn fundamentals of developing full stack PERN application (PostGresql, Express, React, Node)
+My portfolio have been developed using React, Typescript, Tailwind, and DaisyUI. [My Portfolio](https://portfoliojeremymerlin.netlify.app/home)
 
-:computer: Finish Tech educators Full Stack bootcamp in May, where I learn all the basics of developing a full stack MERN application (MongoDB, Express, React, Node)
+<h2 align="center">About Me</h2>
+
+:computer: In 2023 I did 2 bootcamps of 13 weeks each to swap career: Tech Educators and NortCoders. In this bootcamps I learnt fundamentals of developing full stack PERN applications (PostGresql, Express, React, Node) and MERN applications (MongoDB, Express, React, Node). I am now looking for a first position to keep learning and develop my skills.
 
 :mortar_board: Graduated in 2018 at ISEN in France with engineering degree. Learn fundamentals of multiple langages of development and get some experiences working in Tech companies such as Sopra Steria and Orange.
 
-Actually Working on : Portfolio with React & Mui, Recreating Latest Project of Northcoder bootcamp with Next.js
+Actually Working on : Learning Vue, Recreating Latest Project of Northcoder bootcamp with React and Tailwind.
 
 <h2 align="center">Skills<h2>
 
