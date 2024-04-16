@@ -49,37 +49,36 @@ Personal projects since last bootcamp:
 
 
 2. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
-   Frontend :  
+ 
    - Website link: [Go to NC-News](https://nc-news-pinpin.netlify.app/home)  
    - Github repo: [Go to the Repo](https://github.com/Klnder/nc-news)
 
 Projects during Northcoders bootcamp:
 
 1. **Travel app:** Full stack project end of Northcoder bootcamp developed in a team of 6 people in 2 weeks. We use Tech that we learn during the project such as Vue, Mongodb, Ionic
-   Frontend :  
+ 
    - App link: [Go to Travel App](https://travel-app-npm-jog.netlify.app/)
    - Github repo: [Go to the Repo](https://github.com/npm-jog/travel-proj/tree/main)
 
 
-2. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
-   Frontend :  
+2. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...
+   
    - Website link: [Go to NC-News](https://nc-news-pinpin.netlify.app/home)  
-   - Github repo: https://github.com/Klnder/nc-news
+   - Github repo: [Go to the Repo](https://github.com/Klnder/nc-news)
      
-   Backend :  
-   - API link: [Go to the API](https://nc-api-project.onrender.com/api)  
-   - Github repo: https://github.com/Klnder/BE-NC-News  
 
 Projects during Tech Educators Bootcamp:
 
 1. **Trip Planner:** End of bootcamp project using all aspects of MERN applications developped alone in 1 week. The principe is to be able to have all informations for our incoming trips regroup at the same place. Use of MongoDB to store the trips, Express to interact with the Database and external API and React for the client.
-    - Github repo: https://github.com/Klnder/Final-Project
-    - Website link: https://final-project-jeremy.netlify.app/
+    
+    - Website link: [Go to Trip Planner](https://final-project-jeremy.netlify.app/)
+    - Github repo: [Go to the Repo](https://github.com/Klnder/Final-Project)
    
 2. **Cat Fighter:** project developed in duo with HTML, CSS and Javascript Website based on the Street Figther theme, where you can create fighters and simulate fights. Use of everything I learn doing 101 and 201 in HTML(basics, form...), CSS (basics, display flex and grid, animations), and JS (Object, Constructor, Prototype, use of local data, DOM Manipulation)
 
-    - Github repo: https://github.com/Cat-fighter/Cat-fighter
-    - Website link: https://cat-fighter.github.io/Cat-fighter/index.html
+ 
+    - Website link: [Go to Cat Fighter](https://cat-fighter.github.io/Cat-fighter/index.html)
+    - Github repo: [Go to the Repo](https://github.com/Cat-fighter/Cat-fighter)
 
 
 <h2 align="center">Contact<h2>
