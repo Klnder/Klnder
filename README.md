@@ -51,10 +51,10 @@ Personal projects since last bootcamp:
    - Github repo: [Go to the Repo](https://github.com/Klnder/Map-Scratcher/tree/main)
 
 
-2. **NC News:** Front end project using Vite + React to visualise the data received by the API build at the end of the Backend module. Manage data for articles, comments, users...  
+2. **Portfolio:** Front-end project where I learn Typescript and Tailwind with React
  
-   - Website link: [Go to NC-News](https://nc-news-pinpin.netlify.app/home)  
-   - Github repo: [Go to the Repo](https://github.com/Klnder/nc-news)
+   - Website link: [Go to Portfolio](https://portfoliojeremymerlin.netlify.app/home)  
+   - Github repo: [Go to the Repo](https://github.com/Klnder/Portfolio)
 
 Projects during Northcoders bootcamp:
 
